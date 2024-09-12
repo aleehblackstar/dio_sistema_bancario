@@ -1,12 +1,12 @@
 menu = """
-BEM VINDO!
+BEM VINDO AO BANCO DIO!
 
 [d] Depositar
 [s] Sacar
 [e] Extrato
 [q] Sair
 
-=> """
+---> """
 
 saldo = 0
 limite = 500
